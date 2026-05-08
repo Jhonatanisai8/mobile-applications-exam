@@ -17,7 +17,8 @@
         android:id="@+id/spinnerPaises"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="32dp" />
+        android:layout_marginBottom="32dp"
+        android:minHeight="48dp" />
 
     <Button
         android:id="@+id/btnVerDetalle"
